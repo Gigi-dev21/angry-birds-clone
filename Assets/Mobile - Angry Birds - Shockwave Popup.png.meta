@@ -1,0 +1,3692 @@
+fileFormatVersion: 2
+guid: 374b0130e0cf8434696a7f4289b8cccf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3377344322322657491
+    second: Mobile - Angry Birds - Shockwave Popup_0
+  - first:
+      213: -6821809876748576034
+    second: Mobile - Angry Birds - Shockwave Popup_1
+  - first:
+      213: -2895256330503092453
+    second: Mobile - Angry Birds - Shockwave Popup_2
+  - first:
+      213: 1566379177355133998
+    second: Mobile - Angry Birds - Shockwave Popup_3
+  - first:
+      213: -8843957127015928296
+    second: Mobile - Angry Birds - Shockwave Popup_4
+  - first:
+      213: -8078022720753917718
+    second: Mobile - Angry Birds - Shockwave Popup_5
+  - first:
+      213: 1625372652234683280
+    second: Mobile - Angry Birds - Shockwave Popup_6
+  - first:
+      213: -4915619365978483549
+    second: Mobile - Angry Birds - Shockwave Popup_7
+  - first:
+      213: -7310785287896183511
+    second: Mobile - Angry Birds - Shockwave Popup_8
+  - first:
+      213: 1205752751448067383
+    second: Mobile - Angry Birds - Shockwave Popup_9
+  - first:
+      213: -8863152214052713308
+    second: Mobile - Angry Birds - Shockwave Popup_10
+  - first:
+      213: 6937802450759566583
+    second: Mobile - Angry Birds - Shockwave Popup_11
+  - first:
+      213: 2734782631905451988
+    second: Mobile - Angry Birds - Shockwave Popup_12
+  - first:
+      213: 8740525314154757768
+    second: Mobile - Angry Birds - Shockwave Popup_13
+  - first:
+      213: 389693170871601353
+    second: Mobile - Angry Birds - Shockwave Popup_14
+  - first:
+      213: 2877424402764115996
+    second: Mobile - Angry Birds - Shockwave Popup_15
+  - first:
+      213: 437419661022031395
+    second: Mobile - Angry Birds - Shockwave Popup_16
+  - first:
+      213: -4721212374132275522
+    second: Mobile - Angry Birds - Shockwave Popup_17
+  - first:
+      213: -1018384625615783052
+    second: Mobile - Angry Birds - Shockwave Popup_18
+  - first:
+      213: 5058312749296263277
+    second: Mobile - Angry Birds - Shockwave Popup_19
+  - first:
+      213: -953039427756558186
+    second: Mobile - Angry Birds - Shockwave Popup_20
+  - first:
+      213: 7465183260640771827
+    second: Mobile - Angry Birds - Shockwave Popup_21
+  - first:
+      213: 4996338584932099900
+    second: Mobile - Angry Birds - Shockwave Popup_22
+  - first:
+      213: -983868207883781442
+    second: Mobile - Angry Birds - Shockwave Popup_23
+  - first:
+      213: -7453710027477183489
+    second: Mobile - Angry Birds - Shockwave Popup_24
+  - first:
+      213: -5693740015075193444
+    second: Mobile - Angry Birds - Shockwave Popup_25
+  - first:
+      213: -3385088660796571793
+    second: Mobile - Angry Birds - Shockwave Popup_26
+  - first:
+      213: -1216928673067385979
+    second: Mobile - Angry Birds - Shockwave Popup_27
+  - first:
+      213: -1644275276978674533
+    second: Mobile - Angry Birds - Shockwave Popup_28
+  - first:
+      213: 4479895298273807320
+    second: Mobile - Angry Birds - Shockwave Popup_29
+  - first:
+      213: 866074533995698212
+    second: Mobile - Angry Birds - Shockwave Popup_30
+  - first:
+      213: -6352225661067585657
+    second: Mobile - Angry Birds - Shockwave Popup_31
+  - first:
+      213: 4692273520630748717
+    second: Mobile - Angry Birds - Shockwave Popup_32
+  - first:
+      213: 1806556815352326258
+    second: Mobile - Angry Birds - Shockwave Popup_33
+  - first:
+      213: -7440302806598057997
+    second: Mobile - Angry Birds - Shockwave Popup_34
+  - first:
+      213: 7666322902353007899
+    second: Mobile - Angry Birds - Shockwave Popup_35
+  - first:
+      213: 3857663651040849327
+    second: Mobile - Angry Birds - Shockwave Popup_36
+  - first:
+      213: 6020816468928864412
+    second: Mobile - Angry Birds - Shockwave Popup_37
+  - first:
+      213: 7254006124561125797
+    second: Mobile - Angry Birds - Shockwave Popup_38
+  - first:
+      213: -851757741268975760
+    second: Mobile - Angry Birds - Shockwave Popup_39
+  - first:
+      213: -3006810480264063979
+    second: Mobile - Angry Birds - Shockwave Popup_40
+  - first:
+      213: -504433957249431826
+    second: Mobile - Angry Birds - Shockwave Popup_41
+  - first:
+      213: 7372147513914585258
+    second: Mobile - Angry Birds - Shockwave Popup_42
+  - first:
+      213: -6181797774896368819
+    second: Mobile - Angry Birds - Shockwave Popup_43
+  - first:
+      213: -2122455954284016321
+    second: Mobile - Angry Birds - Shockwave Popup_44
+  - first:
+      213: 6930505429834154971
+    second: Mobile - Angry Birds - Shockwave Popup_45
+  - first:
+      213: -4750938724688354661
+    second: Mobile - Angry Birds - Shockwave Popup_46
+  - first:
+      213: 595057092422639253
+    second: Mobile - Angry Birds - Shockwave Popup_47
+  - first:
+      213: 1553535375195284141
+    second: Mobile - Angry Birds - Shockwave Popup_48
+  - first:
+      213: -3396888067812905790
+    second: Mobile - Angry Birds - Shockwave Popup_49
+  - first:
+      213: -4720805789171557783
+    second: Mobile - Angry Birds - Shockwave Popup_50
+  - first:
+      213: 2938496954107114698
+    second: Mobile - Angry Birds - Shockwave Popup_51
+  - first:
+      213: 2482333699808452226
+    second: Mobile - Angry Birds - Shockwave Popup_52
+  - first:
+      213: 2851945654598370590
+    second: Mobile - Angry Birds - Shockwave Popup_53
+  - first:
+      213: -3548665358141486409
+    second: Mobile - Angry Birds - Shockwave Popup_54
+  - first:
+      213: -2155919680082588400
+    second: Mobile - Angry Birds - Shockwave Popup_55
+  - first:
+      213: -5895809373486759273
+    second: Mobile - Angry Birds - Shockwave Popup_56
+  - first:
+      213: -5057721282924268495
+    second: Mobile - Angry Birds - Shockwave Popup_57
+  - first:
+      213: 1910787968491160850
+    second: Mobile - Angry Birds - Shockwave Popup_58
+  - first:
+      213: 1218741558887760849
+    second: Mobile - Angry Birds - Shockwave Popup_59
+  - first:
+      213: -8273519761006293744
+    second: Mobile - Angry Birds - Shockwave Popup_60
+  - first:
+      213: -3261982526999059874
+    second: Mobile - Angry Birds - Shockwave Popup_61
+  - first:
+      213: 5168228068774771129
+    second: Mobile - Angry Birds - Shockwave Popup_62
+  - first:
+      213: 977235214372485558
+    second: Mobile - Angry Birds - Shockwave Popup_63
+  - first:
+      213: 1276331987208633748
+    second: Mobile - Angry Birds - Shockwave Popup_64
+  - first:
+      213: -8547231088814794860
+    second: Mobile - Angry Birds - Shockwave Popup_65
+  - first:
+      213: -6115889552392997109
+    second: Mobile - Angry Birds - Shockwave Popup_66
+  - first:
+      213: -3788635718285424854
+    second: Mobile - Angry Birds - Shockwave Popup_67
+  - first:
+      213: 5401039335294632645
+    second: Mobile - Angry Birds - Shockwave Popup_68
+  - first:
+      213: -2060762733616907351
+    second: Mobile - Angry Birds - Shockwave Popup_69
+  - first:
+      213: -4468457715470194027
+    second: Mobile - Angry Birds - Shockwave Popup_70
+  - first:
+      213: -161791891956428855
+    second: Mobile - Angry Birds - Shockwave Popup_71
+  - first:
+      213: -2605500968858612563
+    second: Mobile - Angry Birds - Shockwave Popup_72
+  - first:
+      213: 7864576138342331391
+    second: Mobile - Angry Birds - Shockwave Popup_73
+  - first:
+      213: 7497302317174186017
+    second: Mobile - Angry Birds - Shockwave Popup_74
+  - first:
+      213: 323405940142192089
+    second: Mobile - Angry Birds - Shockwave Popup_75
+  - first:
+      213: -850254070933124533
+    second: Mobile - Angry Birds - Shockwave Popup_76
+  - first:
+      213: -5973641485474250863
+    second: Mobile - Angry Birds - Shockwave Popup_77
+  - first:
+      213: 5028908438089203390
+    second: Mobile - Angry Birds - Shockwave Popup_78
+  - first:
+      213: 8114430652405658634
+    second: Mobile - Angry Birds - Shockwave Popup_79
+  - first:
+      213: 8379200089519108580
+    second: Mobile - Angry Birds - Shockwave Popup_80
+  - first:
+      213: 8528817700927506922
+    second: Mobile - Angry Birds - Shockwave Popup_81
+  - first:
+      213: 6466613670548460024
+    second: Mobile - Angry Birds - Shockwave Popup_82
+  - first:
+      213: -5009300093058844321
+    second: Mobile - Angry Birds - Shockwave Popup_83
+  - first:
+      213: 148387390605097719
+    second: Mobile - Angry Birds - Shockwave Popup_84
+  - first:
+      213: 2164410500839983083
+    second: Mobile - Angry Birds - Shockwave Popup_85
+  - first:
+      213: 1354416153616970776
+    second: Mobile - Angry Birds - Shockwave Popup_86
+  - first:
+      213: -6443246186644702818
+    second: Mobile - Angry Birds - Shockwave Popup_87
+  - first:
+      213: 1071898864470066499
+    second: Mobile - Angry Birds - Shockwave Popup_88
+  - first:
+      213: 3495536619406986280
+    second: Mobile - Angry Birds - Shockwave Popup_89
+  - first:
+      213: -6601100450035341557
+    second: Mobile - Angry Birds - Shockwave Popup_90
+  - first:
+      213: 5010698101804881041
+    second: Mobile - Angry Birds - Shockwave Popup_91
+  - first:
+      213: 2758706882401059473
+    second: Mobile - Angry Birds - Shockwave Popup_92
+  - first:
+      213: 4488142004170032086
+    second: Mobile - Angry Birds - Shockwave Popup_93
+  - first:
+      213: 6751513080466870608
+    second: Mobile - Angry Birds - Shockwave Popup_94
+  - first:
+      213: -4703979995303719840
+    second: Mobile - Angry Birds - Shockwave Popup_95
+  - first:
+      213: -132231248684010608
+    second: Mobile - Angry Birds - Shockwave Popup_96
+  - first:
+      213: -9156598469285239978
+    second: Mobile - Angry Birds - Shockwave Popup_97
+  - first:
+      213: 2431976035354570917
+    second: Mobile - Angry Birds - Shockwave Popup_98
+  - first:
+      213: 7222417786558666253
+    second: Mobile - Angry Birds - Shockwave Popup_99
+  - first:
+      213: 8044595389659842003
+    second: Mobile - Angry Birds - Shockwave Popup_100
+  - first:
+      213: 7947593276485497030
+    second: Mobile - Angry Birds - Shockwave Popup_101
+  - first:
+      213: -6209307475547575576
+    second: Mobile - Angry Birds - Shockwave Popup_102
+  - first:
+      213: -8537394495023275004
+    second: Mobile - Angry Birds - Shockwave Popup_103
+  - first:
+      213: 6435255724689022562
+    second: Mobile - Angry Birds - Shockwave Popup_104
+  - first:
+      213: 8237223482230217616
+    second: Mobile - Angry Birds - Shockwave Popup_105
+  - first:
+      213: -6486220892027563161
+    second: Mobile - Angry Birds - Shockwave Popup_106
+  - first:
+      213: 1926558146114076428
+    second: Mobile - Angry Birds - Shockwave Popup_107
+  - first:
+      213: -2735683487923963380
+    second: Mobile - Angry Birds - Shockwave Popup_108
+  - first:
+      213: -3924971649192774922
+    second: Mobile - Angry Birds - Shockwave Popup_109
+  - first:
+      213: 2203404321586816795
+    second: Mobile - Angry Birds - Shockwave Popup_110
+  - first:
+      213: 3792469436509610946
+    second: Mobile - Angry Birds - Shockwave Popup_111
+  - first:
+      213: 6009516309971817367
+    second: Mobile - Angry Birds - Shockwave Popup_112
+  - first:
+      213: 5638037861330085192
+    second: Mobile - Angry Birds - Shockwave Popup_113
+  - first:
+      213: -7906590352270254688
+    second: Mobile - Angry Birds - Shockwave Popup_114
+  - first:
+      213: -171479868200897951
+    second: Mobile - Angry Birds - Shockwave Popup_115
+  - first:
+      213: 1661010426901903983
+    second: Mobile - Angry Birds - Shockwave Popup_116
+  - first:
+      213: 1360757128925372710
+    second: Mobile - Angry Birds - Shockwave Popup_117
+  - first:
+      213: 2464654462088714429
+    second: Mobile - Angry Birds - Shockwave Popup_118
+  - first:
+      213: 7274145262059748205
+    second: Mobile - Angry Birds - Shockwave Popup_119
+  - first:
+      213: -1604670598660335525
+    second: Mobile - Angry Birds - Shockwave Popup_120
+  - first:
+      213: -6413322915341526336
+    second: Mobile - Angry Birds - Shockwave Popup_121
+  - first:
+      213: -5369443373087608443
+    second: Mobile - Angry Birds - Shockwave Popup_122
+  - first:
+      213: -2597698358573656469
+    second: Mobile - Angry Birds - Shockwave Popup_123
+  - first:
+      213: -1387195220224642298
+    second: Mobile - Angry Birds - Shockwave Popup_124
+  - first:
+      213: 1824750675437461340
+    second: Mobile - Angry Birds - Shockwave Popup_125
+  - first:
+      213: 8543325087499741210
+    second: Mobile - Angry Birds - Shockwave Popup_126
+  - first:
+      213: 6068852343557084256
+    second: Mobile - Angry Birds - Shockwave Popup_127
+  - first:
+      213: -2916169411911343382
+    second: Mobile - Angry Birds - Shockwave Popup_128
+  - first:
+      213: 3417470262019056248
+    second: Mobile - Angry Birds - Shockwave Popup_129
+  - first:
+      213: 2749576846898676728
+    second: Mobile - Angry Birds - Shockwave Popup_130
+  - first:
+      213: 4391449072892766208
+    second: Mobile - Angry Birds - Shockwave Popup_131
+  - first:
+      213: 4348658253329922409
+    second: Mobile - Angry Birds - Shockwave Popup_132
+  - first:
+      213: -1703990508588175271
+    second: Mobile - Angry Birds - Shockwave Popup_133
+  - first:
+      213: -4560454977318081171
+    second: Mobile - Angry Birds - Shockwave Popup_134
+  - first:
+      213: -3375523139936961530
+    second: Mobile - Angry Birds - Shockwave Popup_135
+  - first:
+      213: -422747623125980576
+    second: Mobile - Angry Birds - Shockwave Popup_136
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 378
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0793864ccbede20800000000000000
+      internalID: 3377344322322657491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_1
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 864
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda56238f001451a0800000000000000
+      internalID: -6821809876748576034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_2
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 837
+        width: 254
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1789a605bbf1d7d0800000000000000
+      internalID: -2895256330503092453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_3
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 893
+        width: 249
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2442d11095ecb510800000000000000
+      internalID: 1566379177355133998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_4
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 895
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e6e6ba9d3f34580800000000000000
+      internalID: -8843957127015928296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_5
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 865
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0ade9722915ef80800000000000000
+      internalID: -8078022720753917718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_6
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 865
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093351cc0db7e8610800000000000000
+      internalID: 1625372652234683280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_7
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 865
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a452df0b3638cbb0800000000000000
+      internalID: -4915619365978483549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_8
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 865
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92dcbcdc38fda8a90800000000000000
+      internalID: -7310785287896183511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_9
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 865
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d03053db1bbb010800000000000000
+      internalID: 1205752751448067383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_10
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 865
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4accb233502cff480800000000000000
+      internalID: -8863152214052713308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_11
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 757
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4cb572296084060800000000000000
+      internalID: 6937802450759566583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_12
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 756
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dfd1a07056e3f520800000000000000
+      internalID: 2734782631905451988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_13
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 756
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ef084c6759c4970800000000000000
+      internalID: 8740525314154757768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_14
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 781
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8823dcfd7786500800000000000000
+      internalID: 389693170871601353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 757
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10bbc2cf3aaee720800000000000000
+      internalID: 2877424402764115996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_16
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 756
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e6df83dd6021600800000000000000
+      internalID: 437419661022031395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_17
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 756
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6caaa1c52ea7eb0800000000000000
+      internalID: -4721212374132275522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_18
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 781
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bb3712498fdd1f0800000000000000
+      internalID: -1018384625615783052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_19
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 762
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6022a835acb23640800000000000000
+      internalID: 5058312749296263277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_20
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 762
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698f0ab90bf16c2f0800000000000000
+      internalID: -953039427756558186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_21
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 729
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe7fa19f98a99760800000000000000
+      internalID: 7465183260640771827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_22
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 729
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c37a474a87f865540800000000000000
+      internalID: 4996338584932099900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_23
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 728
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba7943e3199852f0800000000000000
+      internalID: -983868207883781442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_24
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 729
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff39471b83a1f8890800000000000000
+      internalID: -7453710027477183489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_25
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 732
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d040e7f95cbf0b0800000000000000
+      internalID: -5693740015075193444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_26
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 731
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f74084ccfb501d0800000000000000
+      internalID: -3385088660796571793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_27
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 732
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bb4d4c1d99c1fe0800000000000000
+      internalID: -1216928673067385979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_28
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 654
+        width: 287
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94aabae85c5e29e0800000000000000
+      internalID: -1644275276978674533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_29
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 656
+        width: 43
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db8d8cc909cb2e30800000000000000
+      internalID: 4479895298273807320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_30
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 664
+        width: 252
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42853d3333ae40c00800000000000000
+      internalID: 866074533995698212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_31
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 670
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78712f2ba6c58d7a0800000000000000
+      internalID: -6352225661067585657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_32
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 625
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26da2208ed4e1140800000000000000
+      internalID: 4692273520630748717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_33
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 625
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278e2ad1add221910800000000000000
+      internalID: 1806556815352326258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_34
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 625
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff716f840cbeb890800000000000000
+      internalID: -7440302806598057997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_35
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 625
+        width: 55
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b155130df00446a60800000000000000
+      internalID: 7666322902353007899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_36
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 628
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fade93fd6ac298530800000000000000
+      internalID: 3857663651040849327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_37
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 629
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90a358cdac3e8350800000000000000
+      internalID: 6020816468928864412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_38
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 629
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a159fc03286ba460800000000000000
+      internalID: 7254006124561125797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_39
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 552
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f39fcd8d2fd24f0800000000000000
+      internalID: -851757741268975760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_40
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 552
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51450f88cc9a546d0800000000000000
+      internalID: -3006810480264063979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_41
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 559
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6c08d0df3eff8f0800000000000000
+      internalID: -504433957249431826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_42
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 576
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa078a6ca112f4660800000000000000
+      internalID: 7372147513914585258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_43
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 552
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4370022da7d53aa0800000000000000
+      internalID: -6181797774896368819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_44
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 552
+        width: 75
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d0d790e858b82e0800000000000000
+      internalID: -2122455954284016321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_45
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 559
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd34e2318f91e2060800000000000000
+      internalID: 6930505429834154971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_46
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 576
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92ad45c666411eb0800000000000000
+      internalID: -4750938724688354661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_47
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 525
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e9de6d541124800800000000000000
+      internalID: 595057092422639253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 525
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2a48851344f8510800000000000000
+      internalID: 1553535375195284141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_49
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 525
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccaf30cc44dbd0d0800000000000000
+      internalID: -3396888067812905790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_50
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 525
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a52da85245c7eb0800000000000000
+      internalID: -4720805789171557783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_51
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 525
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac43f133963a7c820800000000000000
+      internalID: 2938496954107114698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_52
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 525
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e50171955037220800000000000000
+      internalID: 2482333699808452226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_53
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 525
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e150e0d6675249720800000000000000
+      internalID: 2851945654598370590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_54
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 525
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba0e3d88ab90cec0800000000000000
+      internalID: -3548665358141486409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_55
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 525
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d47683972a412e0800000000000000
+      internalID: -2155919680082588400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_56
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 526
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79247e5bc90ed2ea0800000000000000
+      internalID: -5895809373486759273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_57
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 526
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134bd564a4d5fc9b0800000000000000
+      internalID: -5057721282924268495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_58
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 526
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2158107988b748a10800000000000000
+      internalID: 1910787968491160850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_59
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 526
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3c28a9df6d9e010800000000000000
+      internalID: 1218741558887760849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_60
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 526
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d8b03cc9d8e2d80800000000000000
+      internalID: -8273519761006293744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_61
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 457
+        width: 307
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52a0b6ac2c1bb2d0800000000000000
+      internalID: -3261982526999059874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_62
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 526
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9f58dcb0c39b740800000000000000
+      internalID: 5168228068774771129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_63
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 526
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9bca6ff36df8d00800000000000000
+      internalID: 977235214372485558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_64
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 526
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49df9091e2176b110800000000000000
+      internalID: 1276331987208633748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_65
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 463
+        width: 282
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497d4022c92226980800000000000000
+      internalID: -8547231088814794860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_66
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 465
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07b7100bdeff1ba0800000000000000
+      internalID: -6115889552392997109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_67
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 431
+        width: 89
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a278d3423ef0c6bc0800000000000000
+      internalID: -3788635718285424854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_68
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 431
+        width: 59
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c20626d8a854fa40800000000000000
+      internalID: 5401039335294632645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_69
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 430
+        width: 92
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9abb6605633b663e0800000000000000
+      internalID: -2060762733616907351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_70
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 431
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59aab87f169dcf1c0800000000000000
+      internalID: -4468457715470194027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_71
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 431
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf0668a12331cdf0800000000000000
+      internalID: -161791891956428855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_72
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 430
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac0f316ca667dbd0800000000000000
+      internalID: -2605500968858612563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_73
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 430
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff378ea5456942d60800000000000000
+      internalID: 7864576138342331391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_74
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 431
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12061ec2cb4cb0860800000000000000
+      internalID: 7497302317174186017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_75
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 430
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d53d643df7fc7400800000000000000
+      internalID: 323405940142192089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_76
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 431
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a83356d6a4334f0800000000000000
+      internalID: -850254070933124533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_77
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 431
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f35caf7bc591da0800000000000000
+      internalID: -5973641485474250863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_78
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 431
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe754484954ac540800000000000000
+      internalID: 5028908438089203390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_79
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 431
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a043e2fafaf3c9070800000000000000
+      internalID: 8114430652405658634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_80
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 431
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e135b52616e84470800000000000000
+      internalID: 8379200089519108580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 259
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae909d9e2827c5670800000000000000
+      internalID: 8528817700927506922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_82
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 368
+        width: 124
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1d9bc2fd60eb950800000000000000
+      internalID: 6466613670548460024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_83
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 367
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5975e31b146b7ab0800000000000000
+      internalID: -5009300093058844321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_84
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 366
+        width: 82
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faf92aab8d2f0200800000000000000
+      internalID: 148387390605097719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_85
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 376
+        width: 146
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be741ba02e7890e10800000000000000
+      internalID: 2164410500839983083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_86
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 377
+        width: 56
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814f362d05adbc210800000000000000
+      internalID: 1354416153616970776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_87
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 376
+        width: 107
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99f6a42bbdf496a0800000000000000
+      internalID: -6443246186644702818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_88
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 339
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34502eb865620ee00800000000000000
+      internalID: 1071898864470066499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_89
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 341
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c8f130904a28030800000000000000
+      internalID: 3495536619406986280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_90
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 341
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07e8f46d1e2464a0800000000000000
+      internalID: -6601100450035341557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 340
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194ddc23063998540800000000000000
+      internalID: 5010698101804881041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_92
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 340
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192c0f41b45e84620800000000000000
+      internalID: 2758706882401059473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_93
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 340
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d38014af55194e30800000000000000
+      internalID: 4488142004170032086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_94
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 340
+        width: 63
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05191a9206132bd50800000000000000
+      internalID: 6751513080466870608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_95
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 340
+        width: 115
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cc065fd1b18beb0800000000000000
+      internalID: -4703979995303719840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_96
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 342
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093bbf141683a2ef0800000000000000
+      internalID: -132231248684010608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_97
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 341
+        width: 64
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6532e57b43a3de080800000000000000
+      internalID: -9156598469285239978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_98
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 341
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a07299a15d10c120800000000000000
+      internalID: 2431976035354570917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_99
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 341
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06da4bf5be2b3460800000000000000
+      internalID: 7222417786558666253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_100
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 341
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d58b6282e424af60800000000000000
+      internalID: 8044595389659842003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_101
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 288
+        width: 69
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c073301af58b4e60800000000000000
+      internalID: 7947593276485497030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_102
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 288
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea2fc2dfbb14d9a0800000000000000
+      internalID: -6209307475547575576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_103
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 288
+        width: 207
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40423c890f4158980800000000000000
+      internalID: -8537394495023275004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 115
+        width: 237
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e53e47cfe9e4950800000000000000
+      internalID: 6435255724689022562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_105
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 194
+        width: 318
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b96d94d1f705270800000000000000
+      internalID: 8237223482230217616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_106
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 253
+        width: 67
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763daf3d6705cf5a0800000000000000
+      internalID: -6486220892027563161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_107
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 253
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0fb3423d628cba10800000000000000
+      internalID: 1926558146114076428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_108
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 253
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0af36cac56e80ad0800000000000000
+      internalID: -2735683487923963380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_109
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 253
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2b2689413b789c0800000000000000
+      internalID: -3924971649192774922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_110
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 253
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b172ebc6e80149e10800000000000000
+      internalID: 2203404321586816795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c36ea0fbde81a430800000000000000
+      internalID: 3792469436509610946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_112
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 136
+        width: 29
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79359cf7e37166350800000000000000
+      internalID: 6009516309971817367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_113
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 112
+        width: 330
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84568c230955e3e40800000000000000
+      internalID: 5638037861330085192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_114
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 167
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad966c27f5264290800000000000000
+      internalID: -7906590352270254688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_115
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 167
+        width: 86
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16231c9e7f7ce9df0800000000000000
+      internalID: -171479868200897951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_116
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 167
+        width: 101
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a35bfce281d0710800000000000000
+      internalID: 1661010426901903983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_117
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 167
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6216d2f266162e210800000000000000
+      internalID: 1360757128925372710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 240
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db811eacc26343220800000000000000
+      internalID: 2464654462088714429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_119
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 83
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b79a56394f2f460800000000000000
+      internalID: 7274145262059748205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_120
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 83
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b585659a7901bb9e0800000000000000
+      internalID: -1604670598660335525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_121
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 83
+        width: 112
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca1239a9cc4ff6a0800000000000000
+      internalID: -6413322915341526336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_122
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 82
+        width: 126
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581b98163b7eb75b0800000000000000
+      internalID: -5369443373087608443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_123
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 88
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b661a972b1f13fbd0800000000000000
+      internalID: -2597698358573656469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_124
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 12
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603f3600c41bfbce0800000000000000
+      internalID: -1387195220224642298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_125
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 12
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f9a154211d25910800000000000000
+      internalID: 1824750675437461340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_126
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 13
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18ea1117ecff8670800000000000000
+      internalID: 8543325087499741210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_127
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 13
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06454046d05e83450800000000000000
+      internalID: 6068852343557084256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_128
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 13
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae22a22de5fa787d0800000000000000
+      internalID: -2916169411911343382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_129
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 13
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8726b16c81b4d6f20800000000000000
+      internalID: 3417470262019056248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_130
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 13
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3c80a0395782620800000000000000
+      internalID: 2749576846898676728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_131
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 33
+        width: 325
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008edf63aaf81fc30800000000000000
+      internalID: 4391449072892766208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_132
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 60
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969fc4724a9895c30800000000000000
+      internalID: 4348658253329922409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_133
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 0
+        width: 88
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950f6fa19a53a58e0800000000000000
+      internalID: -1703990508588175271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_134
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d2bc64c5206b0c0800000000000000
+      internalID: -4560454977318081171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_135
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 0
+        width: 51
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c32f8a69bb721d0800000000000000
+      internalID: -3375523139936961530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Angry Birds - Shockwave Popup_136
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 0
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a6fedc649122af0800000000000000
+      internalID: -422747623125980576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Angry Birds - Shockwave Popup_0: 3377344322322657491
+      Mobile - Angry Birds - Shockwave Popup_1: -6821809876748576034
+      Mobile - Angry Birds - Shockwave Popup_10: -8863152214052713308
+      Mobile - Angry Birds - Shockwave Popup_100: 8044595389659842003
+      Mobile - Angry Birds - Shockwave Popup_101: 7947593276485497030
+      Mobile - Angry Birds - Shockwave Popup_102: -6209307475547575576
+      Mobile - Angry Birds - Shockwave Popup_103: -8537394495023275004
+      Mobile - Angry Birds - Shockwave Popup_104: 6435255724689022562
+      Mobile - Angry Birds - Shockwave Popup_105: 8237223482230217616
+      Mobile - Angry Birds - Shockwave Popup_106: -6486220892027563161
+      Mobile - Angry Birds - Shockwave Popup_107: 1926558146114076428
+      Mobile - Angry Birds - Shockwave Popup_108: -2735683487923963380
+      Mobile - Angry Birds - Shockwave Popup_109: -3924971649192774922
+      Mobile - Angry Birds - Shockwave Popup_11: 6937802450759566583
+      Mobile - Angry Birds - Shockwave Popup_110: 2203404321586816795
+      Mobile - Angry Birds - Shockwave Popup_111: 3792469436509610946
+      Mobile - Angry Birds - Shockwave Popup_112: 6009516309971817367
+      Mobile - Angry Birds - Shockwave Popup_113: 5638037861330085192
+      Mobile - Angry Birds - Shockwave Popup_114: -7906590352270254688
+      Mobile - Angry Birds - Shockwave Popup_115: -171479868200897951
+      Mobile - Angry Birds - Shockwave Popup_116: 1661010426901903983
+      Mobile - Angry Birds - Shockwave Popup_117: 1360757128925372710
+      Mobile - Angry Birds - Shockwave Popup_118: 2464654462088714429
+      Mobile - Angry Birds - Shockwave Popup_119: 7274145262059748205
+      Mobile - Angry Birds - Shockwave Popup_12: 2734782631905451988
+      Mobile - Angry Birds - Shockwave Popup_120: -1604670598660335525
+      Mobile - Angry Birds - Shockwave Popup_121: -6413322915341526336
+      Mobile - Angry Birds - Shockwave Popup_122: -5369443373087608443
+      Mobile - Angry Birds - Shockwave Popup_123: -2597698358573656469
+      Mobile - Angry Birds - Shockwave Popup_124: -1387195220224642298
+      Mobile - Angry Birds - Shockwave Popup_125: 1824750675437461340
+      Mobile - Angry Birds - Shockwave Popup_126: 8543325087499741210
+      Mobile - Angry Birds - Shockwave Popup_127: 6068852343557084256
+      Mobile - Angry Birds - Shockwave Popup_128: -2916169411911343382
+      Mobile - Angry Birds - Shockwave Popup_129: 3417470262019056248
+      Mobile - Angry Birds - Shockwave Popup_13: 8740525314154757768
+      Mobile - Angry Birds - Shockwave Popup_130: 2749576846898676728
+      Mobile - Angry Birds - Shockwave Popup_131: 4391449072892766208
+      Mobile - Angry Birds - Shockwave Popup_132: 4348658253329922409
+      Mobile - Angry Birds - Shockwave Popup_133: -1703990508588175271
+      Mobile - Angry Birds - Shockwave Popup_134: -4560454977318081171
+      Mobile - Angry Birds - Shockwave Popup_135: -3375523139936961530
+      Mobile - Angry Birds - Shockwave Popup_136: -422747623125980576
+      Mobile - Angry Birds - Shockwave Popup_14: 389693170871601353
+      Mobile - Angry Birds - Shockwave Popup_15: 2877424402764115996
+      Mobile - Angry Birds - Shockwave Popup_16: 437419661022031395
+      Mobile - Angry Birds - Shockwave Popup_17: -4721212374132275522
+      Mobile - Angry Birds - Shockwave Popup_18: -1018384625615783052
+      Mobile - Angry Birds - Shockwave Popup_19: 5058312749296263277
+      Mobile - Angry Birds - Shockwave Popup_2: -2895256330503092453
+      Mobile - Angry Birds - Shockwave Popup_20: -953039427756558186
+      Mobile - Angry Birds - Shockwave Popup_21: 7465183260640771827
+      Mobile - Angry Birds - Shockwave Popup_22: 4996338584932099900
+      Mobile - Angry Birds - Shockwave Popup_23: -983868207883781442
+      Mobile - Angry Birds - Shockwave Popup_24: -7453710027477183489
+      Mobile - Angry Birds - Shockwave Popup_25: -5693740015075193444
+      Mobile - Angry Birds - Shockwave Popup_26: -3385088660796571793
+      Mobile - Angry Birds - Shockwave Popup_27: -1216928673067385979
+      Mobile - Angry Birds - Shockwave Popup_28: -1644275276978674533
+      Mobile - Angry Birds - Shockwave Popup_29: 4479895298273807320
+      Mobile - Angry Birds - Shockwave Popup_3: 1566379177355133998
+      Mobile - Angry Birds - Shockwave Popup_30: 866074533995698212
+      Mobile - Angry Birds - Shockwave Popup_31: -6352225661067585657
+      Mobile - Angry Birds - Shockwave Popup_32: 4692273520630748717
+      Mobile - Angry Birds - Shockwave Popup_33: 1806556815352326258
+      Mobile - Angry Birds - Shockwave Popup_34: -7440302806598057997
+      Mobile - Angry Birds - Shockwave Popup_35: 7666322902353007899
+      Mobile - Angry Birds - Shockwave Popup_36: 3857663651040849327
+      Mobile - Angry Birds - Shockwave Popup_37: 6020816468928864412
+      Mobile - Angry Birds - Shockwave Popup_38: 7254006124561125797
+      Mobile - Angry Birds - Shockwave Popup_39: -851757741268975760
+      Mobile - Angry Birds - Shockwave Popup_4: -8843957127015928296
+      Mobile - Angry Birds - Shockwave Popup_40: -3006810480264063979
+      Mobile - Angry Birds - Shockwave Popup_41: -504433957249431826
+      Mobile - Angry Birds - Shockwave Popup_42: 7372147513914585258
+      Mobile - Angry Birds - Shockwave Popup_43: -6181797774896368819
+      Mobile - Angry Birds - Shockwave Popup_44: -2122455954284016321
+      Mobile - Angry Birds - Shockwave Popup_45: 6930505429834154971
+      Mobile - Angry Birds - Shockwave Popup_46: -4750938724688354661
+      Mobile - Angry Birds - Shockwave Popup_47: 595057092422639253
+      Mobile - Angry Birds - Shockwave Popup_48: 1553535375195284141
+      Mobile - Angry Birds - Shockwave Popup_49: -3396888067812905790
+      Mobile - Angry Birds - Shockwave Popup_5: -8078022720753917718
+      Mobile - Angry Birds - Shockwave Popup_50: -4720805789171557783
+      Mobile - Angry Birds - Shockwave Popup_51: 2938496954107114698
+      Mobile - Angry Birds - Shockwave Popup_52: 2482333699808452226
+      Mobile - Angry Birds - Shockwave Popup_53: 2851945654598370590
+      Mobile - Angry Birds - Shockwave Popup_54: -3548665358141486409
+      Mobile - Angry Birds - Shockwave Popup_55: -2155919680082588400
+      Mobile - Angry Birds - Shockwave Popup_56: -5895809373486759273
+      Mobile - Angry Birds - Shockwave Popup_57: -5057721282924268495
+      Mobile - Angry Birds - Shockwave Popup_58: 1910787968491160850
+      Mobile - Angry Birds - Shockwave Popup_59: 1218741558887760849
+      Mobile - Angry Birds - Shockwave Popup_6: 1625372652234683280
+      Mobile - Angry Birds - Shockwave Popup_60: -8273519761006293744
+      Mobile - Angry Birds - Shockwave Popup_61: -3261982526999059874
+      Mobile - Angry Birds - Shockwave Popup_62: 5168228068774771129
+      Mobile - Angry Birds - Shockwave Popup_63: 977235214372485558
+      Mobile - Angry Birds - Shockwave Popup_64: 1276331987208633748
+      Mobile - Angry Birds - Shockwave Popup_65: -8547231088814794860
+      Mobile - Angry Birds - Shockwave Popup_66: -6115889552392997109
+      Mobile - Angry Birds - Shockwave Popup_67: -3788635718285424854
+      Mobile - Angry Birds - Shockwave Popup_68: 5401039335294632645
+      Mobile - Angry Birds - Shockwave Popup_69: -2060762733616907351
+      Mobile - Angry Birds - Shockwave Popup_7: -4915619365978483549
+      Mobile - Angry Birds - Shockwave Popup_70: -4468457715470194027
+      Mobile - Angry Birds - Shockwave Popup_71: -161791891956428855
+      Mobile - Angry Birds - Shockwave Popup_72: -2605500968858612563
+      Mobile - Angry Birds - Shockwave Popup_73: 7864576138342331391
+      Mobile - Angry Birds - Shockwave Popup_74: 7497302317174186017
+      Mobile - Angry Birds - Shockwave Popup_75: 323405940142192089
+      Mobile - Angry Birds - Shockwave Popup_76: -850254070933124533
+      Mobile - Angry Birds - Shockwave Popup_77: -5973641485474250863
+      Mobile - Angry Birds - Shockwave Popup_78: 5028908438089203390
+      Mobile - Angry Birds - Shockwave Popup_79: 8114430652405658634
+      Mobile - Angry Birds - Shockwave Popup_8: -7310785287896183511
+      Mobile - Angry Birds - Shockwave Popup_80: 8379200089519108580
+      Mobile - Angry Birds - Shockwave Popup_81: 8528817700927506922
+      Mobile - Angry Birds - Shockwave Popup_82: 6466613670548460024
+      Mobile - Angry Birds - Shockwave Popup_83: -5009300093058844321
+      Mobile - Angry Birds - Shockwave Popup_84: 148387390605097719
+      Mobile - Angry Birds - Shockwave Popup_85: 2164410500839983083
+      Mobile - Angry Birds - Shockwave Popup_86: 1354416153616970776
+      Mobile - Angry Birds - Shockwave Popup_87: -6443246186644702818
+      Mobile - Angry Birds - Shockwave Popup_88: 1071898864470066499
+      Mobile - Angry Birds - Shockwave Popup_89: 3495536619406986280
+      Mobile - Angry Birds - Shockwave Popup_9: 1205752751448067383
+      Mobile - Angry Birds - Shockwave Popup_90: -6601100450035341557
+      Mobile - Angry Birds - Shockwave Popup_91: 5010698101804881041
+      Mobile - Angry Birds - Shockwave Popup_92: 2758706882401059473
+      Mobile - Angry Birds - Shockwave Popup_93: 4488142004170032086
+      Mobile - Angry Birds - Shockwave Popup_94: 6751513080466870608
+      Mobile - Angry Birds - Shockwave Popup_95: -4703979995303719840
+      Mobile - Angry Birds - Shockwave Popup_96: -132231248684010608
+      Mobile - Angry Birds - Shockwave Popup_97: -9156598469285239978
+      Mobile - Angry Birds - Shockwave Popup_98: 2431976035354570917
+      Mobile - Angry Birds - Shockwave Popup_99: 7222417786558666253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
